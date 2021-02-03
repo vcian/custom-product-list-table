@@ -1,0 +1,20 @@
+.ww-clt-require,.ww-clt-product-error {
+	color: red;
+}
+#ww-clt-product .form-table td, #ww-clt-product label{
+	vertical-align:top;
+}
+/********* CSS for List Of Product Table Start ************************/
+.categories #post_title { width:20%; }
+.categories #post_content  { width:25%; }
+.categories #post_date  { width:15%; }
+/********* CSS for List Of Product Table End ************************/
+.ww-clt-pending {
+	background-color : #FFFFF0;
+}
+.ww-clt-approved {
+	background-color : #F0FFFF;
+}
+.ww-clt-cancelled {
+	background-color : #FFF0FF;
+}
